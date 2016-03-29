@@ -2,10 +2,8 @@
 <html>
   <head>
     <title>Simple Map</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUA8WEhFG8f-5YZbpoW31gQAlYxPOQb_o&callback=initMap"
     async defer></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <style>
@@ -26,10 +24,16 @@
       var map;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: 7.181104, lng: 171.608277},
-          zoom: 3,
-          mapTypeId: google.maps.MapTypeId.TERRAIN,
+            center: {lat: 7.181104, lng: 171.608277},
+            zoom: 3,
         });
+        var layer = new google.maps.FusionTablesLayer({
+            query: {
+              select: '\'Country Name\'',
+              from: '1Efv1RBTMGfUErbveE2DOpcSksEzSa4MkMoXvkB6b'
+            }
+        });
+        layer.setMap(map);
       }
     </script>
   </body>
