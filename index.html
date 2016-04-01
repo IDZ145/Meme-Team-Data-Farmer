@@ -22,11 +22,42 @@
     <script>
       //Code from https://developers.google.com/maps/documentation/javascript/tutorial
       var map;
+      
       function initMap() {
+        var customMapType = new google.maps.StyledMapType([
+          {
+            stylers: [
+              {hue: '#045B69'},
+              {visibility: 'simplified'},
+              {gamma: 0.5},
+              {weight: 0.5}
+            ]
+          },
+          {
+            elementType: 'labels',
+            stylers: [
+                {visibility: 'on'},
+                {color: '#000000'},
+                {weight: 0}
+            ]
+          },
+          {
+            featureType: 'water',
+            stylers: [{color: '#3089D1'}]
+          }
+        ], {
+          name: 'Custom Style'
+        });
+        var customMapTypeId = 'custom_style';
         map = new google.maps.Map(document.getElementById('map'), {
             center: {lat: 7.181104, lng: 171.608277},
             zoom: 3,
+            mapTypeControlOptions: {
+                mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
+            },
         });
+        map.mapTypes.set(customMapTypeId, customMapType);
+        map.setMapTypeId(customMapTypeId);
         //https://www.google.com/fusiontables/DataSource?docid=1Efv1RBTMGfUErbveE2DOpcSksEzSa4MkMoXvkB6b
         var layer = new google.maps.FusionTablesLayer({
             query: {
@@ -35,6 +66,7 @@
             }
         });
         layer.setMap(map);
+        
       }
     </script>
   </body>
