@@ -1,0 +1,587 @@
+Discharge Country	Volume	Grade
+Singapore	30500.00	Wheat
+Sri Lanka	20000.00	Wheat
+Singapore	15000.00	Wheat
+China	25500.00	Sorghum / Milo
+China	4500.00	Barley
+Malaysia	25000.00	Wheat
+Singapore	20000.00	Wheat
+Singapore	33409.00	Barley
+Philippines	33670.00	Wheat
+China	60000.00	Barley
+Singapore	30000.00	Wheat
+Bangladesh	47727.00	Wheat
+Thailand	25000.00	Wheat
+Japan	6300.00	Wheat
+Singapore	30000.00	Wheat
+India	30000.00	Wheat
+Philippines	30000.00	Wheat
+India	15000.00	Wheat
+Singapore	30000.00	Wheat
+United Arab Emirates	23864.00	Wheat
+Indonesia	25000.00	Wheat
+Indonesia	25000.00	Wheat
+China	5000.00	Barley
+United Arab Emirates	18370.00	Barley
+United Arab Emirates	47380.00	Wheat
+China	52500.00	Barley
+Japan	28230.00	Wheat
+Taiwan	15000.00	Wheat
+Bahrain	25000.00	Wheat
+Singapore	59682.00	Wheat
+Malaysia	30000.00	Wheat
+Japan	34364.00	Barley
+China	60000.00	Barley
+Indonesia	20000.00	Wheat
+Malaysia	50000.00	Wheat
+South Korea	50000.00	Wheat
+Indonesia	20000.00	Wheat
+Hong Kong	55841.00	Wheat
+China	3364.00	Wheat
+China	53637.00	Wheat
+Sri Lanka	60000.00	Barley
+Indonesia	50000.00	Wheat
+Malaysia	25000.00	Wheat
+Japan	32500.00	Wheat
+Malaysia	25000.00	Wheat
+Japan	24999.00	Wheat
+Saudi Arabia	60000.00	Barley
+Japan	20666.00	Wheat
+Indonesia	50000.00	Wheat
+Sri Lanka	10000.00	Barley
+Oman	19091.00	Barley
+Indonesia	50000.00	Wheat
+Sri Lanka	50000.00	Barley
+Japan	30900.00	Barley
+Indonesia	50000.00	Wheat
+United Arab Emirates	9000.00	Wheat
+Japan	28820.00	Wheat
+China	60000.00	Barley
+Sri Lanka	60000.00	Barley
+Indonesia	25000.00	Wheat
+China	44000.00	Barley
+South Korea	4500.00	Wheat
+Saudi Arabia	31000.00	Barley
+South Korea	40500.00	Wheat
+Sri Lanka	20000.00	Wheat
+Oman	44000.00	Barley
+Singapore	14000.00	Wheat
+Indonesia	50000.00	Wheat
+Sri Lanka	46350.00	Wheat
+South Korea	31000.00	Wheat
+Japan	22000.00	Barley
+Indonesia	10000.00	Wheat
+Indonesia	50000.00	Wheat
+Malaysia	49000.00	Wheat
+Singapore	35000.00	Wheat
+Malaysia	13000.00	Wheat
+Singapore	25000.00	Wheat
+Malaysia	12500.00	Wheat
+Vietnam	30600.00	Wheat
+Singapore	25000.00	Wheat
+Saudi Arabia	35000.00	Barley
+Indonesia	50000.00	Wheat
+Singapore	44700.00	Wheat
+China	35341.00	Wheat
+Japan	28671.00	Wheat
+Yemen	28600.00	Wheat
+United Arab Emirates	20000.00	Wheat
+United Arab Emirates	6110.00	Barley
+Sri Lanka	42000.00	Wheat
+Japan	31640.00	Wheat
+Indonesia	26255.00	Wheat
+China	30000.00	Wheat
+Indonesia	20000.00	Wheat
+Japan	18730.00	Barley
+South Korea	45000.00	Wheat
+Indonesia	15000.00	Wheat
+Indonesia	35000.00	Wheat
+Sri Lanka	24000.00	Wheat
+India	25816.00	Wheat
+Japan	31499.00	Wheat
+Bahrain	23540.00	Wheat
+China	10000.00	Wheat
+South Korea	50000.00	Wheat
+China	50000.00	Wheat
+China	67000.00	Barley
+Indonesia	15000.00	Wheat
+Indonesia	45014.00	Wheat
+Singapore	25000.00	Wheat
+China	20000.00	Wheat
+Singapore	9400.00	Wheat
+Indonesia	16000.00	Wheat
+Indonesia	45000.00	Wheat
+Japan	30960.00	Wheat
+Singapore	8000.00	Wheat
+Sri Lanka	48000.00	Wheat
+Indonesia	25000.00	Wheat
+Malaysia	29227.00	Wheat
+Indonesia	25000.00	Wheat
+Indonesia	8000.00	Wheat
+Japan	24000.00	Barley
+Singapore	26000.00	Wheat
+China	39000.00	Barley
+China	25000.00	Wheat
+China	35000.00	Sorghum / Milo
+Indonesia	15000.00	Wheat
+Singapore	9750.00	Wheat
+India	25000.00	Wheat
+Indonesia	25000.00	Wheat
+Singapore	10500.00	Barley
+Malaysia	16364.00	Wheat
+Japan	6100.00	Wheat
+Singapore	12000.00	Wheat
+Japan	25207.00	Wheat
+Vietnam	42000.00	Wheat
+Yemen	55000.00	Wheat
+Oman	34698.00	Wheat
+China	27572.00	Wheat
+Japan	25006.00	Wheat
+Indonesia	15400.00	Malt
+Singapore	25500.00	Wheat
+Singapore	46000.00	Wheat
+Kuwait	35000.00	Wheat
+Indonesia	30293.00	Wheat
+Indonesia	33000.00	Wheat
+United Arab Emirates	11000.00	Wheat
+United Arab Emirates	9000.00	Barley
+China	33721.00	Barley
+China	20000.00	Barley
+China	25000.00	Barley
+Thailand	50000.00	Wheat
+South Korea	35800.00	Wheat
+Singapore	53000.00	Wheat
+China	31412.00	Barley
+Indonesia	10000.00	Wheat
+Indonesia	35000.00	Wheat
+China	18779.00	Barley
+Indonesia	15000.00	Wheat
+Japan	20000.00	Barley
+Malaysia	20000.00	Wheat
+Japan	11000.00	Corn
+Japan	40000.00	Barley
+Yemen	50000.00	Wheat
+South Korea	50000.00	Wheat
+Singapore	5000.00	Wheat
+Indonesia	19091.00	Wheat
+Singapore	20000.00	Wheat
+Malaysia	7200.00	Wheat
+Indonesia	14900.00	Wheat
+Indonesia	23000.00	Wheat
+China	25992.00	Barley
+United Arab Emirates	38634.00	Wheat
+Indonesia	47000.00	Wheat
+Singapore	2500.00	Oats
+Singapore	27000.00	Wheat
+China	31636.00	Barley
+Indonesia	50000.00	Wheat
+United Arab Emirates	15000.00	Barley
+Singapore	17000.00	Wheat
+China	8500.00	Barley
+China	6900.00	Barley
+Singapore	36175.00	Wheat
+China	50000.00	Barley
+Indonesia	5000.00	Wheat
+China	30000.00	Sorghum / Milo
+Singapore	30000.00	Wheat
+Indonesia	55000.00	Wheat
+South Korea	47000.00	Wheat
+China	36750.00	Malting Barley
+China	28000.00	Sorghum / Milo
+China	45000.00	Sorghum / Milo
+India	53000.00	Wheat
+Japan	100.00	Wheat
+Japan	25638.00	Wheat
+Philippines	20500.00	Wheat
+India	33000.00	Wheat
+India	26300.00	Wheat
+Indonesia	20000.00	Wheat
+Japan	25375.00	Wheat
+China	30000.00	Sorghum / Milo
+Indonesia	31050.00	Wheat
+Yemen	8000.00	Wheat
+China	51818.00	Barley
+Japan	38341.00	Wheat
+South Korea	50000.00	Wheat
+China	30000.00	Sorghum / Milo
+Indonesia	30000.00	Wheat
+South Korea	5971.00	Barley
+Indonesia	24685.00	Wheat
+China	30000.00	Barley
+China	20000.00	Sorghum / Milo
+Oman	66000.00	Wheat
+China	10000.00	Sorghum / Milo
+China	44000.00	Sorghum / Milo
+China	50000.00	Wheat
+Singapore	25000.00	Wheat
+Singapore	25018.00	Wheat
+South Korea	20000.00	Wheat
+China	21000.00	Barley
+China	36750.00	Barley
+China	45000.00	Wheat
+Singapore	24271.00	Wheat
+Indonesia	60000.00	Wheat
+China	30000.00	Sorghum / Milo
+Indonesia	50000.00	Wheat
+Philippines	33000.00	Wheat
+Bahrain	22440.00	Wheat
+China	40227.00	Barley
+Japan	6900.00	Wheat
+Yemen	42000.00	Wheat
+China	19091.00	Barley
+South Korea	34000.00	Wheat
+China	10875.00	Wheat
+China	1000.00	Barley
+India	25000.00	Wheat
+China	23810.00	Barley
+China	54890.00	Wheat
+Singapore	25000.00	Wheat
+Singapore	25730.00	Wheat
+Japan	31237.00	Wheat
+South Korea	7041.00	Wheat
+South Korea	5000.00	Wheat
+China	24998.00	Barley
+China	55000.00	Barley
+China	6189.00	Barley
+South Korea	10000.00	Wheat
+China	30000.00	Sorghum / Milo
+China	45000.00	Barley
+Indonesia	66000.00	Wheat
+Hong Kong	30000.00	Wheat
+Hong Kong	5000.00	Wheat
+India	32999.00	Wheat
+Indonesia	5850.00	Wheat
+Sri Lanka	45978.00	Wheat
+Indonesia	24000.00	Wheat
+India	25550.00	Wheat
+India	32499.00	Wheat
+India	31965.00	Wheat
+South Korea	37000.00	Wheat
+China	30000.00	Sorghum / Milo
+China	30000.00	Sorghum / Milo
+China	35000.00	Sorghum / Milo
+South Korea	46300.00	Wheat
+Sri Lanka	46622.00	Wheat
+Hong Kong	36000.00	Sorghum / Milo
+China	33000.00	Wheat
+China	36600.00	Sorghum / Milo
+Indonesia	7000.00	Wheat
+Indonesia	60000.00	Wheat
+China	21300.00	Wheat
+China	39000.00	Sorghum / Milo
+China	30000.00	Sorghum / Milo
+South Korea	15000.00	Corn
+Malaysia	21487.00	Wheat
+China	58500.00	Barley
+China	30234.00	Barley
+Sri Lanka	24731.00	Wheat
+India	32499.00	Wheat
+China	25000.00	Wheat
+Indonesia	36098.00	Wheat
+China	25000.00	Wheat
+India	10000.00	Oats
+China	55124.00	Barley
+China	32880.00	Wheat
+Indonesia	50000.00	Wheat
+Yemen	30000.00	Wheat
+Indonesia	50000.00	Wheat
+India	25550.00	Wheat
+China	45000.00	Sorghum / Milo
+Indonesia	47650.00	Wheat
+Malaysia	17500.00	Wheat
+China	42000.00	Sorghum / Milo
+China	30000.00	Sorghum / Milo
+Sri Lanka	10015.00	Wheat
+China	30375.00	Wheat
+Sri Lanka	8912.00	Barley
+Sri Lanka	16088.00	Wheat
+China	45000.00	Sorghum / Milo
+Singapore	45000.00	Wheat
+Indonesia	10000.00	Wheat
+Indonesia	35000.00	Wheat
+Indonesia	15000.00	Wheat
+Thailand	41590.00	Wheat
+Oman	37000.00	Wheat
+India	25000.00	Wheat
+Sri Lanka	25000.00	Wheat
+Indonesia	51657.00	Barley
+China	10000.00	Wheat
+China	56000.00	Wheat
+India	25000.00	Wheat
+Hong Kong	15000.00	Sorghum / Milo
+Indonesia	5000.00	Wheat
+Indonesia	10000.00	Wheat
+United Arab Emirates	25000.00	Wheat
+Hong Kong	30000.00	Sorghum / Milo
+Japan	22000.00	Barley
+Japan	5000.00	Barley
+Philippines	40000.00	Wheat
+Yemen	25000.00	Wheat
+China	30000.00	Sorghum / Milo
+Indonesia	50000.00	Wheat
+China	40000.00	Barley
+China	60000.00	Barley
+Indonesia	50046.00	Wheat
+Japan	1710.00	Wheat
+China	44000.00	Barley
+Hong Kong	42111.00	Barley
+China	35000.00	Sorghum / Milo
+Thailand	13700.00	Wheat
+China	28600.00	Barley
+India	10000.00	Wheat
+China	20000.00	Barley
+China	5000.00	Barley
+Thailand	25000.00	Wheat
+Indonesia	27500.00	Wheat
+Indonesia	25000.00	Wheat
+Sri Lanka	35000.00	Wheat
+China	29200.00	Wheat
+Sri Lanka	31800.00	Wheat
+Indonesia	40000.00	Wheat
+China	15600.00	Wheat
+Sri Lanka	30000.00	Wheat
+Philippines	12000.00	Wheat
+China	60000.00	Sorghum / Milo
+South Korea	51000.00	Wheat
+Indonesia	18274.00	Wheat
+Japan	28091.00	Barley
+Indonesia	25000.00	Wheat
+Singapore	27800.00	Wheat
+China	54364.00	Barley
+Indonesia	50000.00	Wheat
+United Arab Emirates	20000.00	Wheat
+Indonesia	10000.00	Wheat
+Singapore	50000.00	Wheat
+China	30000.00	Barley
+Indonesia	57000.00	Wheat
+Indonesia	25000.00	Wheat
+Indonesia	52049.00	Wheat
+Japan	29351.00	Wheat
+Japan	5775.00	Barley
+Thailand	20000.00	Wheat
+Sri Lanka	5000.00	Wheat
+Indonesia	60000.00	Wheat
+Indonesia	18000.00	Sorghum / Milo
+Hong Kong	66000.00	Wheat
+Indonesia	15000.00	Wheat
+Sri Lanka	50000.00	Wheat
+China	55000.00	Barley
+Indonesia	35000.00	Wheat
+Hong Kong	40509.00	Barley
+Indonesia	20000.00	Wheat
+Malaysia	25000.00	Wheat
+Sri Lanka	25000.00	Wheat
+Indonesia	24866.00	Wheat
+Indonesia	15000.00	Wheat
+Hong Kong	19444.00	Barley
+Indonesia	25134.00	Wheat
+China	21969.00	Barley
+Indonesia	15000.00	Wheat
+United Arab Emirates	8000.00	Oats
+Sri Lanka	17500.00	Wheat
+Indonesia	38500.00	Wheat
+China	11666.00	Barley
+Malaysia	57000.00	Wheat
+China	27500.00	Barley
+Sri Lanka	40000.00	Wheat
+Iran	36750.00	Wheat
+China	38540.00	Barley
+South Korea	51000.00	Wheat
+China	45000.00	Wheat
+Iran	30455.00	Wheat
+China	15000.00	Barley
+Indonesia	51091.00	Wheat
+Thailand	51925.00	Wheat
+Indonesia	54500.00	Wheat
+Philippines	8056.00	Wheat
+Japan	31560.00	Wheat
+China	20000.00	Barley
+China	9643.00	Barley
+South Korea	31000.00	Wheat
+Indonesia	50000.00	Wheat
+Indonesia	21656.00	Wheat
+China	50000.00	Barley
+Qatar	20000.00	Wheat
+China	13125.00	Wheat
+Sri Lanka	53636.00	Wheat
+China	25000.00	Barley
+Malaysia	41000.00	Wheat
+China	55000.00	Barley
+Singapore	20000.00	Wheat
+Indonesia	25000.00	Wheat
+China	25000.00	Barley
+Philippines	43944.00	Wheat
+China	45000.00	Barley
+Japan	27453.00	Wheat
+Singapore	22500.00	Wheat
+China	60000.00	Barley
+China	60000.00	Wheat
+Japan	22847.00	Barley
+Indonesia	42777.00	Wheat
+Singapore	55000.00	Wheat
+China	30000.00	Barley
+China	17500.00	Barley
+China	25000.00	Wheat
+Indonesia	35000.00	Wheat
+Indonesia	30000.00	Wheat
+Sri Lanka	20000.00	Wheat
+Indonesia	45273.00	Wheat
+China	27500.00	Barley
+Japan	13500.00	Wheat
+Singapore	25000.00	Wheat
+Singapore	13806.00	Wheat
+Singapore	16000.00	Wheat
+Singapore	28000.00	Barley
+South Korea	40000.00	Wheat
+Japan	25910.00	Barley
+Philippines	28593.00	Wheat
+China	55000.00	Barley
+Singapore	20000.00	Wheat
+Indonesia	45700.00	Wheat
+Indonesia	50000.00	Wheat
+South Korea	36500.00	Wheat
+United Arab Emirates	20600.00	Barley
+United Arab Emirates	36200.00	Wheat
+Indonesia	25000.00	Wheat
+China	9000.00	Barley
+Indonesia	24400.00	Wheat
+Indonesia	16400.00	Wheat
+China	55000.00	Barley
+China	52500.00	Barley
+Indonesia	20000.00	Wheat
+Japan	5500.00	Wheat
+Indonesia	20000.00	Wheat
+Singapore	60000.00	Barley
+Indonesia	29000.00	Wheat
+Philippines	30000.00	Wheat
+China	35000.00	Barley
+Sri Lanka	25000.00	Wheat
+China	49445.00	Barley
+China	2500.00	Barley
+Indonesia	6560.00	Wheat
+Bangladesh	55000.00	Wheat
+Bahrain	27500.00	Wheat
+Malaysia	58966.00	Barley
+Indonesia	53500.00	Wheat
+Singapore	47737.00	Wheat
+Indonesia	22500.00	Wheat
+Singapore	5000.00	Wheat
+Singapore	5000.00	Wheat
+Indonesia	45000.00	Wheat
+Vietnam	51150.00	Wheat
+Indonesia	20000.00	Wheat
+Japan	4300.00	Oats
+Indonesia	36364.00	Wheat
+Sri Lanka	44000.00	Wheat
+Indonesia	40000.00	Wheat
+Malaysia	60000.00	Wheat
+China	35000.00	Barley
+China	25000.00	Barley
+Singapore	55000.00	Barley
+Indonesia	23636.00	Wheat
+Japan	32328.00	Wheat
+China	25000.00	Barley
+China	20000.00	Barley
+Indonesia	10000.00	Wheat
+Sri Lanka	53440.00	Wheat
+China	60000.00	Barley
+China	50000.00	Wheat
+Sri Lanka	33000.00	Wheat
+Indonesia	23864.00	Wheat
+China	40000.00	Barley
+Yemen	54700.00	Wheat
+Singapore	27177.00	Barley
+Indonesia	15000.00	Wheat
+Japan	24271.00	Wheat
+South Korea	11432.00	Barley
+Indonesia	39071.00	Wheat
+Sri Lanka	55000.00	Wheat
+Malaysia	24850.00	Wheat
+Indonesia	50000.00	Wheat
+China	10000.00	Wheat
+South Korea	36500.00	Wheat
+China	27500.00	Barley
+Iraq	51385.00	Wheat
+Indonesia	35000.00	Wheat
+Indonesia	50000.00	Wheat
+Philippines	5000.00	Wheat
+China	58000.00	Barley
+South Korea	40000.00	Wheat
+Indonesia	40500.00	Wheat
+China	52897.00	Barley
+Philippines	50000.00	Wheat
+China	30000.00	Sorghum / Milo
+Indonesia	50000.00	Wheat
+Indonesia	25000.00	Wheat
+Thailand	45000.00	Wheat
+Indonesia	25000.00	Wheat
+Singapore	25000.00	Barley
+Singapore	20000.00	Wheat
+Vietnam	26500.00	Wheat
+Oman	30000.00	Wheat
+China	55000.00	Wheat
+China	55000.00	Wheat
+Singapore	25000.00	Wheat
+Japan	32000.00	Wheat
+China	55000.00	Barley
+China	29500.00	Barley
+Oman	29100.00	Wheat
+Oman	18900.00	Barley
+Pakistan	9000.00	Barley
+Indonesia	9500.00	Wheat
+Sri Lanka	53700.00	Wheat
+Pakistan	30000.00	Wheat
+China	7750.00	Wheat
+Singapore	30000.00	Barley
+Singapore	60000.00	Barley
+Indonesia	25000.00	Wheat
+Hong Kong	55000.00	Barley
+China	60000.00	Barley
+Indonesia	50000.00	Wheat
+United Arab Emirates	7000.00	Wheat
+Vietnam	30000.00	Wheat
+Indonesia	25000.00	Wheat
+South Korea	40800.00	Wheat
+China	35936.00	Barley
+Singapore	50000.00	Barley
+China	40000.00	Barley
+Vietnam	30000.00	Wheat
+Yemen	35000.00	Wheat
+Yemen	12000.00	Wheat
+Iran	25000.00	Wheat
+Japan	25000.00	Sorghum / Milo
+Singapore	9000.00	Wheat
+Japan	5000.00	Wheat
+Iran	20000.00	Wheat
+Yemen	50000.00	Wheat
+Singapore	50000.00	Wheat
+Singapore	34000.00	Wheat
+Japan	25000.00	Sorghum / Milo
+Thailand	33000.00	Wheat
+Yemen	11000.00	Wheat
+Japan	10000.00	Sorghum / Milo
+Singapore	30000.00	Wheat
+Indonesia	14000.00	Wheat
+South Korea	12000.00	Wheat
+Indonesia	25000.00	Wheat
+Singapore	19000.00	Wheat
+Singapore	20000.00	Wheat
+Yemen	30000.00	Wheat
+Singapore	8000.00	Wheat
+Thailand	21000.00	Wheat
+Thailand	20000.00	Wheat
+Japan	5300.00	Wheat
+Japan	20000.00	Sorghum / Milo
+Japan	7000.00	Wheat
+Indonesia	25000.00	Wheat
+Japan	20000.00	Sorghum / Milo
+Yemen	60000.00	Wheat
+Japan	5000.00	Wheat
+Japan	25000.00	Sorghum / Milo
+Philippines	840.00	Wheat
+Singapore	32000.00	Wheat
+Thailand	25000.00	Wheat
+Singapore	15000.00	Wheat
+Philippines	25000.00	Wheat
+Malaysia	19455.00	Wheat
+Singapore	33000.00	Wheat
